@@ -15,7 +15,7 @@ The script performs the following functions:
 ## Prerequisites
 
 - Python 3.x
-- GitHub Personal Access Token with appropriate permissions
+- GitHub Personal Access Token with appropriate permissions (https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
 - Internet connection to access GitHub API and CISA's KEV database
 
 ## Required Python Packages
